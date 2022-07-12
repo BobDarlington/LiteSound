@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\rdarl\Documents\IIGS-audio v3\IIGS-audio.kicad_sch</source>
+    <date>7/8/2022 7:09:36 PM</date>
+    <tool>Eeschema (6.0.4)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>IIGS-audio.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34839dd5-7a9a-4906-b347-5bceb102a07a</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e4ee1bb-0c4e-4d20-b2a9-8735d21c5009</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1.5nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>918f788e-b8e4-440e-a1e6-c9fb5020ba8e</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1.5nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df2c53fa-85f0-4be0-86d7-67834d9a6ea6</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1.5nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>459de49d-10ae-4551-8823-933b364a72f6</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10uF</value>
+      <footprint>CAPAE430X610N</footprint>
+      <datasheet>https://www.mouser.co.uk/datasheet/2/231/156315576075-1624351.pdf</datasheet>
+      <fields>
+        <field name="Description">Aluminum Electrolytic Capacitors - SMD 10uF 20% 50V Ultra Low ESR</field>
+        <field name="Height">6.1</field>
+        <field name="Manufacturer_Name">Lelon</field>
+        <field name="Manufacturer_Part_Number">VZT100M1HTR-0406</field>
+        <field name="Mouser Part Number">140-VZT100M1HTR-0406</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Lelon/VZT100M1HTR-0406/?qs=mQP6vorrPAcP1%252BjIAgEecA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="VZT100M1HTR-0406" description="Aluminum Electrolytic Capacitors - SMD 10uF 20% 50V Ultra Low ESR"/>
+      <property name="Description" value="Aluminum Electrolytic Capacitors - SMD 10uF 20% 50V Ultra Low ESR"/>
+      <property name="Height" value="6.1"/>
+      <property name="Mouser Part Number" value="140-VZT100M1HTR-0406"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Lelon/VZT100M1HTR-0406/?qs=mQP6vorrPAcP1%252BjIAgEecA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Lelon"/>
+      <property name="Manufacturer_Part_Number" value="VZT100M1HTR-0406"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48d6ca26-d505-40b5-9d86-a685270e319f</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>10uF</value>
+      <footprint>CAPAE430X610N</footprint>
+      <datasheet>https://www.mouser.co.uk/datasheet/2/231/156315576075-1624351.pdf</datasheet>
+      <fields>
+        <field name="Description">Aluminum Electrolytic Capacitors - SMD 10uF 20% 50V Ultra Low ESR</field>
+        <field name="Height">6.1</field>
+        <field name="Manufacturer_Name">Lelon</field>
+        <field name="Manufacturer_Part_Number">VZT100M1HTR-0406</field>
+        <field name="Mouser Part Number">140-VZT100M1HTR-0406</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Lelon/VZT100M1HTR-0406/?qs=mQP6vorrPAcP1%252BjIAgEecA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="VZT100M1HTR-0406" description="Aluminum Electrolytic Capacitors - SMD 10uF 20% 50V Ultra Low ESR"/>
+      <property name="Description" value="Aluminum Electrolytic Capacitors - SMD 10uF 20% 50V Ultra Low ESR"/>
+      <property name="Height" value="6.1"/>
+      <property name="Mouser Part Number" value="140-VZT100M1HTR-0406"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Lelon/VZT100M1HTR-0406/?qs=mQP6vorrPAcP1%252BjIAgEecA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Lelon"/>
+      <property name="Manufacturer_Part_Number" value="VZT100M1HTR-0406"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0832dd2a-9d05-4cf1-9d68-d119d1d5717e</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>4.7uF</value>
+      <footprint>CAPAE430X610N</footprint>
+      <datasheet>https://www.mouser.co.uk/datasheet/2/231/156315576075-1624351.pdf</datasheet>
+      <fields>
+        <field name="Description">Aluminum Electrolytic Capacitors - SMD 10uF 20% 50V Ultra Low ESR</field>
+        <field name="Height">6.1</field>
+        <field name="Manufacturer_Name">Lelon</field>
+        <field name="Manufacturer_Part_Number">VZT100M1HTR-0406</field>
+        <field name="Mouser Part Number">140-VZT100M1HTR-0406</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Lelon/VZT100M1HTR-0406/?qs=mQP6vorrPAcP1%252BjIAgEecA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="VZT100M1HTR-0406" description="Aluminum Electrolytic Capacitors - SMD 10uF 20% 50V Ultra Low ESR"/>
+      <property name="Description" value="Aluminum Electrolytic Capacitors - SMD 10uF 20% 50V Ultra Low ESR"/>
+      <property name="Height" value="6.1"/>
+      <property name="Mouser Part Number" value="140-VZT100M1HTR-0406"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Lelon/VZT100M1HTR-0406/?qs=mQP6vorrPAcP1%252BjIAgEecA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Lelon"/>
+      <property name="Manufacturer_Part_Number" value="VZT100M1HTR-0406"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4075e761-f300-4c80-978c-b9ada572446e</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1.5nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23a4c97c-3f20-4dd7-9098-c93ee6d78d1b</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>4.7uF</value>
+      <footprint>CAPAE430X610N</footprint>
+      <datasheet>https://www.mouser.co.uk/datasheet/2/231/156315576075-1624351.pdf</datasheet>
+      <fields>
+        <field name="Description">Aluminum Electrolytic Capacitors - SMD 10uF 20% 50V Ultra Low ESR</field>
+        <field name="Height">6.1</field>
+        <field name="Manufacturer_Name">Lelon</field>
+        <field name="Manufacturer_Part_Number">VZT100M1HTR-0406</field>
+        <field name="Mouser Part Number">140-VZT100M1HTR-0406</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Lelon/VZT100M1HTR-0406/?qs=mQP6vorrPAcP1%252BjIAgEecA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="VZT100M1HTR-0406" description="Aluminum Electrolytic Capacitors - SMD 10uF 20% 50V Ultra Low ESR"/>
+      <property name="Description" value="Aluminum Electrolytic Capacitors - SMD 10uF 20% 50V Ultra Low ESR"/>
+      <property name="Height" value="6.1"/>
+      <property name="Mouser Part Number" value="140-VZT100M1HTR-0406"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Lelon/VZT100M1HTR-0406/?qs=mQP6vorrPAcP1%252BjIAgEecA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Lelon"/>
+      <property name="Manufacturer_Part_Number" value="VZT100M1HTR-0406"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7cffe4c2-f26d-4fcb-b1af-4916ea13e751</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>10uF</value>
+      <footprint>CAPAE430X610N</footprint>
+      <datasheet>https://www.mouser.co.uk/datasheet/2/231/156315576075-1624351.pdf</datasheet>
+      <fields>
+        <field name="Description">Aluminum Electrolytic Capacitors - SMD 10uF 20% 50V Ultra Low ESR</field>
+        <field name="Height">6.1</field>
+        <field name="Manufacturer_Name">Lelon</field>
+        <field name="Manufacturer_Part_Number">VZT100M1HTR-0406</field>
+        <field name="Mouser Part Number">140-VZT100M1HTR-0406</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Lelon/VZT100M1HTR-0406/?qs=mQP6vorrPAcP1%252BjIAgEecA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="VZT100M1HTR-0406" description="Aluminum Electrolytic Capacitors - SMD 10uF 20% 50V Ultra Low ESR"/>
+      <property name="Description" value="Aluminum Electrolytic Capacitors - SMD 10uF 20% 50V Ultra Low ESR"/>
+      <property name="Height" value="6.1"/>
+      <property name="Mouser Part Number" value="140-VZT100M1HTR-0406"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Lelon/VZT100M1HTR-0406/?qs=mQP6vorrPAcP1%252BjIAgEecA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Lelon"/>
+      <property name="Manufacturer_Part_Number" value="VZT100M1HTR-0406"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>68128f33-bfbc-4f87-9556-7d6316f4edba</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>10uF</value>
+      <footprint>CAPAE430X610N</footprint>
+      <datasheet>https://www.mouser.co.uk/datasheet/2/231/156315576075-1624351.pdf</datasheet>
+      <fields>
+        <field name="Description">Aluminum Electrolytic Capacitors - SMD 10uF 20% 50V Ultra Low ESR</field>
+        <field name="Height">6.1</field>
+        <field name="Manufacturer_Name">Lelon</field>
+        <field name="Manufacturer_Part_Number">VZT100M1HTR-0406</field>
+        <field name="Mouser Part Number">140-VZT100M1HTR-0406</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Lelon/VZT100M1HTR-0406/?qs=mQP6vorrPAcP1%252BjIAgEecA%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="VZT100M1HTR-0406" description="Aluminum Electrolytic Capacitors - SMD 10uF 20% 50V Ultra Low ESR"/>
+      <property name="Description" value="Aluminum Electrolytic Capacitors - SMD 10uF 20% 50V Ultra Low ESR"/>
+      <property name="Height" value="6.1"/>
+      <property name="Mouser Part Number" value="140-VZT100M1HTR-0406"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Lelon/VZT100M1HTR-0406/?qs=mQP6vorrPAcP1%252BjIAgEecA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Lelon"/>
+      <property name="Manufacturer_Part_Number" value="VZT100M1HTR-0406"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86ca22d0-76f8-443e-99f2-6e0638ba1fa9</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f4eadcc-f6a2-40ee-ba8e-e0d0341d3c70</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e298dd2-f132-40b8-a874-23943dde73ac</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x07</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x07" description="Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e39dcda-832e-478b-a27a-a89206119120</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>SJ1-3515N</value>
+      <footprint>SJ13515N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/SJ1-3515N.pdf</datasheet>
+      <fields>
+        <field name="Description">AUDIOJACK, 3.5MM, RT, STEREO,</field>
+        <field name="Height">6</field>
+        <field name="Manufacturer_Name">CUI Inc.</field>
+        <field name="Manufacturer_Part_Number">SJ1-3515N</field>
+        <field name="Mouser Part Number">490-SJ1-3515N</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ1-3515N?qs=WyjlAZoYn51jeVVXLxifpg%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="SJ1-3515N" description="AUDIOJACK, 3.5MM, RT, STEREO,"/>
+      <property name="Description" value="AUDIOJACK, 3.5MM, RT, STEREO,"/>
+      <property name="Height" value="6"/>
+      <property name="Mouser Part Number" value="490-SJ1-3515N"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ1-3515N?qs=WyjlAZoYn51jeVVXLxifpg%3D%3D"/>
+      <property name="Manufacturer_Name" value="CUI Inc."/>
+      <property name="Manufacturer_Part_Number" value="SJ1-3515N"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff7bfb3a-4870-454e-865a-25334c86ba76</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>AppleII_slot</value>
+      <footprint>Apple2:Apple2_card_slot</footprint>
+      <libsource lib="apple2" part="AppleII_slot" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66a15523-fdda-4e02-9450-fa8233e5ab05</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x02_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17108590-0e42-43c2-ab9e-625e7b4f94b1</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c660256-1140-4d3c-8e60-783fc8e2bf57</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>43fad974-f177-446c-bc0b-cb9f6940f17a</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82eb0c5d-f5e8-4702-ae27-4b871adba078</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d20daf85-34c6-47c8-97a3-e9b8de17f01a</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>609839ca-7a6b-4eab-a3fd-17b505961680</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6f84c7b-0f0b-4f44-9cc1-2646b17df236</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb816a03-dcb7-422c-8450-dd3245bcf053</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cee7c226-0656-4d5a-b582-178d175ffd8a</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>73faa3eb-f3c1-4ea5-9b50-bdbe0ed0f350</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>15K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>854ce7d4-e966-4408-a347-98793001125d</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53d08dff-55c3-471b-a196-29c9997738a7</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99452c66-6b9f-4361-aba4-612e22697a3a</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c64fef3e-a215-47f8-b090-ff62b55efedc</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9a1265f-cf48-4422-8b5b-b4e76bb656ce</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c292d871-b301-4af0-817a-90bfa8362495</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>824bf9be-cd2c-4ab7-8842-76df6ed72469</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>67215154-3994-435c-8149-f68b1aa1200b</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>56k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61b28a57-a3f9-455d-9443-35db48314351</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>56k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbcdb623-6ecf-4810-95bc-8983dfed39d5</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03876fa1-3e0f-4d15-bd42-fcf228e50cdb</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f63aaf3d-28bd-46f8-90dc-a295326f9a43</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>MC14052BDR2G</value>
+      <footprint>SOIC127P600X175-16N</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/MC14051B-D.PDF</datasheet>
+      <fields>
+        <field name="Arrow Part Number">MC14052BDR2G</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/mc14052bdr2g/on-semiconductor?region=nac</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">ON Semiconductor</field>
+        <field name="Manufacturer_Part_Number">MC14052BDR2G</field>
+        <field name="Mouser Part Number">863-MC14052BDR2G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi/MC14052BDR2G?qs=OSf9jACorvZ82JRMsgs01Q%3D%3D</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="MC14052BDR2G" description=""/>
+      <property name="Description" value=""/>
+      <property name="Height" value="1.75"/>
+      <property name="Manufacturer_Name" value="ON Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="MC14052BDR2G"/>
+      <property name="Mouser Part Number" value="863-MC14052BDR2G"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/onsemi/MC14052BDR2G?qs=OSf9jACorvZ82JRMsgs01Q%3D%3D"/>
+      <property name="Arrow Part Number" value="MC14052BDR2G"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/mc14052bdr2g/on-semiconductor?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b83b087e-7ec9-44e7-a1c9-81d5d26bbf79</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>TL084</value>
+      <footprint>Package_SO:SOIC-14_3.9x8.7mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl081.pdf</datasheet>
+      <libsource lib="Amplifier_Operational" part="TL084" description="Quad JFET-Input Operational Amplifiers, DIP-14/SOIC-14/SSOP-14"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="IIGS-audio.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eb49e25a-ad89-4fad-a278-f8b913b5c291 d0e5cb06-b4ca-4f44-97ec-26352abfdc84 9950266c-1256-4d5a-bab3-9a83f474120f a78be91f-2d56-45cb-8fb5-7dca095b31e3 2614eab2-50de-46b0-9eda-9ba6f3213d6f</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Amplifier_Operational" part="TL084">
+      <description>Quad JFET-Input Operational Amplifiers, DIP-14/SOIC-14/SSOP-14</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tl081.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x8.7mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+        <fp>SSOP*5.3x6.2mm*P0.65mm*</fp>
+        <fp>MSOP*3x3mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TL084</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tl081.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V+" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="-" type="input"/>
+        <pin num="10" name="+" type="input"/>
+        <pin num="11" name="V-" type="power_in"/>
+        <pin num="12" name="+" type="input"/>
+        <pin num="13" name="-" type="input"/>
+        <pin num="14" name="" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Male">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x07">
+      <description>Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x07</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_US">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="MC14052BDR2G">
+      <docs>http://www.onsemi.com/pub/Collateral/MC14051B-D.PDF</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">MC14052BDR2G</field>
+        <field name="Footprint">SOIC127P600X175-16N</field>
+        <field name="Datasheet">http://www.onsemi.com/pub/Collateral/MC14051B-D.PDF</field>
+        <field name="Height">1.75</field>
+        <field name="Manufacturer_Name">ON Semiconductor</field>
+        <field name="Manufacturer_Part_Number">MC14052BDR2G</field>
+        <field name="Mouser Part Number">863-MC14052BDR2G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi/MC14052BDR2G?qs=OSf9jACorvZ82JRMsgs01Q%3D%3D</field>
+        <field name="Arrow Part Number">MC14052BDR2G</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/mc14052bdr2g/on-semiconductor?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Y0" type="passive"/>
+        <pin num="2" name="Y2" type="passive"/>
+        <pin num="3" name="Y" type="passive"/>
+        <pin num="4" name="Y3" type="passive"/>
+        <pin num="5" name="Y1" type="passive"/>
+        <pin num="6" name="INH" type="input"/>
+        <pin num="7" name="VEE" type="passive"/>
+        <pin num="8" name="VSS" type="power_in"/>
+        <pin num="9" name="B" type="passive"/>
+        <pin num="10" name="A" type="passive"/>
+        <pin num="11" name="X3" type="passive"/>
+        <pin num="12" name="X0" type="passive"/>
+        <pin num="13" name="X" type="passive"/>
+        <pin num="14" name="X1" type="passive"/>
+        <pin num="15" name="X2" type="passive"/>
+        <pin num="16" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="SJ1-3515N">
+      <description>AUDIOJACK, 3.5MM, RT, STEREO,</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/SJ1-3515N.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SJ1-3515N</field>
+        <field name="Footprint">SJ13515N</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/SJ1-3515N.pdf</field>
+        <field name="Description">AUDIOJACK, 3.5MM, RT, STEREO,</field>
+        <field name="Height">6</field>
+        <field name="Mouser Part Number">490-SJ1-3515N</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ1-3515N?qs=WyjlAZoYn51jeVVXLxifpg%3D%3D</field>
+        <field name="Manufacturer_Name">CUI Inc.</field>
+        <field name="Manufacturer_Part_Number">SJ1-3515N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SLEEVE" type="passive"/>
+        <pin num="2" name="TIP" type="passive"/>
+        <pin num="3" name="RING" type="passive"/>
+        <pin num="4" name="TIP_SWITCH" type="passive"/>
+        <pin num="5" name="RING_SWITCH" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="VZT100M1HTR-0406">
+      <description>Aluminum Electrolytic Capacitors - SMD 10uF 20% 50V Ultra Low ESR</description>
+      <docs>https://www.mouser.co.uk/datasheet/2/231/156315576075-1624351.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">VZT100M1HTR-0406</field>
+        <field name="Footprint">CAPAE430X610N</field>
+        <field name="Datasheet">https://www.mouser.co.uk/datasheet/2/231/156315576075-1624351.pdf</field>
+        <field name="Description">Aluminum Electrolytic Capacitors - SMD 10uF 20% 50V Ultra Low ESR</field>
+        <field name="Height">6.1</field>
+        <field name="Mouser Part Number">140-VZT100M1HTR-0406</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Lelon/VZT100M1HTR-0406/?qs=mQP6vorrPAcP1%252BjIAgEecA%3D%3D</field>
+        <field name="Manufacturer_Name">Lelon</field>
+        <field name="Manufacturer_Part_Number">VZT100M1HTR-0406</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="apple2" part="AppleII_slot">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">AppleII_slot</field>
+      </fields>
+      <pins>
+        <pin num="1" name="/IOSEL" type="output"/>
+        <pin num="2" name="A0" type="bidirectional"/>
+        <pin num="3" name="A1" type="bidirectional"/>
+        <pin num="4" name="A2" type="bidirectional"/>
+        <pin num="5" name="A3" type="bidirectional"/>
+        <pin num="6" name="A4" type="bidirectional"/>
+        <pin num="7" name="A5" type="bidirectional"/>
+        <pin num="8" name="A6" type="bidirectional"/>
+        <pin num="9" name="A7" type="bidirectional"/>
+        <pin num="10" name="A8" type="bidirectional"/>
+        <pin num="11" name="A9" type="bidirectional"/>
+        <pin num="12" name="A10" type="bidirectional"/>
+        <pin num="13" name="A11" type="bidirectional"/>
+        <pin num="14" name="A12" type="bidirectional"/>
+        <pin num="15" name="A13" type="bidirectional"/>
+        <pin num="16" name="A14" type="bidirectional"/>
+        <pin num="17" name="A15" type="bidirectional"/>
+        <pin num="18" name="R/W" type="bidirectional"/>
+        <pin num="19" name="SYNC" type="output"/>
+        <pin num="20" name="/IOSTRB" type="output"/>
+        <pin num="21" name="/RDY" type="input"/>
+        <pin num="22" name="/DMA" type="input"/>
+        <pin num="23" name="/INTOUT" type="input"/>
+        <pin num="24" name="/DMAOUT" type="input"/>
+        <pin num="25" name="+5V" type="power_out"/>
+        <pin num="26" name="GND" type="power_in"/>
+        <pin num="27" name="/DMAIN" type="output"/>
+        <pin num="28" name="/INTIN" type="output"/>
+        <pin num="29" name="/NMI" type="input"/>
+        <pin num="30" name="/IRQ" type="input"/>
+        <pin num="31" name="/RES" type="input"/>
+        <pin num="32" name="/INH" type="input"/>
+        <pin num="33" name="-12V" type="power_out"/>
+        <pin num="34" name="-5V" type="power_out"/>
+        <pin num="35" name="COLORREF" type="output"/>
+        <pin num="36" name="7M" type="output"/>
+        <pin num="37" name="Q3" type="output"/>
+        <pin num="38" name="PHI1" type="output"/>
+        <pin num="39" name="Various" type="output"/>
+        <pin num="40" name="PHI0" type="output"/>
+        <pin num="41" name="/DEVSEL" type="output"/>
+        <pin num="42" name="D7" type="bidirectional"/>
+        <pin num="43" name="D6" type="bidirectional"/>
+        <pin num="44" name="D5" type="bidirectional"/>
+        <pin num="45" name="D4" type="bidirectional"/>
+        <pin num="46" name="D3" type="bidirectional"/>
+        <pin num="47" name="D2" type="bidirectional"/>
+        <pin num="48" name="D1" type="bidirectional"/>
+        <pin num="49" name="D0" type="bidirectional"/>
+        <pin num="50" name="+12V" type="power_out"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Amplifier_Operational">
+      <uri>E:\Program Files\KiCad\6.0\share\kicad\symbols\/Amplifier_Operational.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>E:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>E:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>E:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="SamacSys_Parts">
+      <uri>C:/Users/rdarl/AppData/Roaming/kicad/fp-lib-table/SamacSys_Parts.lib</uri>
+    </library>
+    <library logical="apple2">
+      <uri>C:/Users/rdarl/Documents/KiCad/6.0/symbols/apple2.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J3" pin="25" pinfunction="+5V" pintype="power_out"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="2" name="-5V">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="J3" pin="34" pinfunction="-5V" pintype="power_out"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="VEE" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="V-" pintype="power_in"/>
+    </net>
+    <net code="9" name="GNDA">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="SLEEVE" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="X3" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="X0" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="X1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="Y2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="Y3" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="Y1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="INH" pintype="input"/>
+      <node ref="U1" pin="8" pinfunction="VSS" pintype="power_in"/>
+    </net>
+    <net code="10" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="11" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U2" pin="7" pintype="output"/>
+    </net>
+    <net code="13" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="U2" pin="8" pintype="output"/>
+    </net>
+    <net code="15" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="output"/>
+    </net>
+    <net code="16" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="RING" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(C9-Pad2)">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="19" name="Net-(C11-Pad1)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="U2" pin="14" pintype="output"/>
+    </net>
+    <net code="20" name="Net-(C11-Pad2)">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(C12-Pad1)">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="TIP" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(J1-Pad3)">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="Y0" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="X2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(J1-Pad4)">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(J1-Pad6)">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(R4-Pad2)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="Y" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(R8-Pad2)">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="27" name="Net-(R10-Pad1)">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(R11-Pad2)">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="X" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(R14-Pad1)">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="30" name="Net-(R15-Pad2)">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="31" name="Net-(R16-Pad1)">
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="32" name="Net-(R20-Pad2)">
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="34" name="unconnected-(J1-Pad1)">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(J1-Pad5)">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(J1-Pad7)">
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(J2-Pad4)">
+      <node ref="J2" pin="4" pinfunction="TIP_SWITCH" pintype="passive+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(J2-Pad5)">
+      <node ref="J2" pin="5" pinfunction="RING_SWITCH" pintype="passive+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(J3-Pad1)">
+      <node ref="J3" pin="1" pinfunction="/IOSEL" pintype="output+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(J3-Pad2)">
+      <node ref="J3" pin="2" pinfunction="A0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(J3-Pad3)">
+      <node ref="J3" pin="3" pinfunction="A1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(J3-Pad4)">
+      <node ref="J3" pin="4" pinfunction="A2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(J3-Pad5)">
+      <node ref="J3" pin="5" pinfunction="A3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(J3-Pad6)">
+      <node ref="J3" pin="6" pinfunction="A4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(J3-Pad7)">
+      <node ref="J3" pin="7" pinfunction="A5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(J3-Pad8)">
+      <node ref="J3" pin="8" pinfunction="A6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(J3-Pad9)">
+      <node ref="J3" pin="9" pinfunction="A7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(J3-Pad10)">
+      <node ref="J3" pin="10" pinfunction="A8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(J3-Pad11)">
+      <node ref="J3" pin="11" pinfunction="A9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(J3-Pad12)">
+      <node ref="J3" pin="12" pinfunction="A10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(J3-Pad13)">
+      <node ref="J3" pin="13" pinfunction="A11" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(J3-Pad14)">
+      <node ref="J3" pin="14" pinfunction="A12" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(J3-Pad15)">
+      <node ref="J3" pin="15" pinfunction="A13" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(J3-Pad16)">
+      <node ref="J3" pin="16" pinfunction="A14" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="55" name="unconnected-(J3-Pad17)">
+      <node ref="J3" pin="17" pinfunction="A15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(J3-Pad18)">
+      <node ref="J3" pin="18" pinfunction="R/W" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="57" name="unconnected-(J3-Pad19)">
+      <node ref="J3" pin="19" pinfunction="SYNC" pintype="output+no_connect"/>
+    </net>
+    <net code="58" name="unconnected-(J3-Pad20)">
+      <node ref="J3" pin="20" pinfunction="/IOSTRB" pintype="output+no_connect"/>
+    </net>
+    <net code="59" name="unconnected-(J3-Pad21)">
+      <node ref="J3" pin="21" pinfunction="/RDY" pintype="input+no_connect"/>
+    </net>
+    <net code="60" name="unconnected-(J3-Pad22)">
+      <node ref="J3" pin="22" pinfunction="/DMA" pintype="input+no_connect"/>
+    </net>
+    <net code="61" name="unconnected-(J3-Pad23)">
+      <node ref="J3" pin="23" pinfunction="/INTOUT" pintype="input+no_connect"/>
+    </net>
+    <net code="62" name="unconnected-(J3-Pad24)">
+      <node ref="J3" pin="24" pinfunction="/DMAOUT" pintype="input+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(J3-Pad26)">
+      <node ref="J3" pin="26" pinfunction="GND" pintype="power_in+no_connect"/>
+    </net>
+    <net code="64" name="unconnected-(J3-Pad27)">
+      <node ref="J3" pin="27" pinfunction="/DMAIN" pintype="output+no_connect"/>
+    </net>
+    <net code="65" name="unconnected-(J3-Pad28)">
+      <node ref="J3" pin="28" pinfunction="/INTIN" pintype="output+no_connect"/>
+    </net>
+    <net code="66" name="unconnected-(J3-Pad29)">
+      <node ref="J3" pin="29" pinfunction="/NMI" pintype="input+no_connect"/>
+    </net>
+    <net code="67" name="unconnected-(J3-Pad30)">
+      <node ref="J3" pin="30" pinfunction="/IRQ" pintype="input+no_connect"/>
+    </net>
+    <net code="68" name="unconnected-(J3-Pad31)">
+      <node ref="J3" pin="31" pinfunction="/RES" pintype="input+no_connect"/>
+    </net>
+    <net code="69" name="unconnected-(J3-Pad32)">
+      <node ref="J3" pin="32" pinfunction="/INH" pintype="input+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(J3-Pad33)">
+      <node ref="J3" pin="33" pinfunction="-12V" pintype="power_out+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(J3-Pad35)">
+      <node ref="J3" pin="35" pinfunction="COLORREF" pintype="output+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(J3-Pad36)">
+      <node ref="J3" pin="36" pinfunction="7M" pintype="output+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(J3-Pad37)">
+      <node ref="J3" pin="37" pinfunction="Q3" pintype="output+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(J3-Pad38)">
+      <node ref="J3" pin="38" pinfunction="PHI1" pintype="output+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(J3-Pad39)">
+      <node ref="J3" pin="39" pinfunction="Various" pintype="output+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(J3-Pad40)">
+      <node ref="J3" pin="40" pinfunction="PHI0" pintype="output+no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(J3-Pad41)">
+      <node ref="J3" pin="41" pinfunction="/DEVSEL" pintype="output+no_connect"/>
+    </net>
+    <net code="78" name="unconnected-(J3-Pad42)">
+      <node ref="J3" pin="42" pinfunction="D7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="79" name="unconnected-(J3-Pad43)">
+      <node ref="J3" pin="43" pinfunction="D6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="80" name="unconnected-(J3-Pad44)">
+      <node ref="J3" pin="44" pinfunction="D5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="81" name="unconnected-(J3-Pad45)">
+      <node ref="J3" pin="45" pinfunction="D4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="82" name="unconnected-(J3-Pad46)">
+      <node ref="J3" pin="46" pinfunction="D3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(J3-Pad47)">
+      <node ref="J3" pin="47" pinfunction="D2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="84" name="unconnected-(J3-Pad48)">
+      <node ref="J3" pin="48" pinfunction="D1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(J3-Pad49)">
+      <node ref="J3" pin="49" pinfunction="D0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(J3-Pad50)">
+      <node ref="J3" pin="50" pinfunction="+12V" pintype="power_out+no_connect"/>
+    </net>
+  </nets>
+</export>
