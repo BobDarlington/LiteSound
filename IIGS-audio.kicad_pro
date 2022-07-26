@@ -333,6 +333,7 @@
       "Connector_Audio"
     ],
     "pinned_symbol_libs": [
+      "apple2",
       "SamacSys_Parts"
     ]
   },

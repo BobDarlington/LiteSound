@@ -3,8 +3,6 @@ LiteSound stereo audio card for the Apple IIGS
 
 Project done in KiCad 6.0.4 and probably won't work with older versions.
 
-
-
 This card provides stereo audio capability for the Apple IIGS computers.
 
 The J25 header on the IIGS motherboard provides an analog audio signal, and decode lines
@@ -15,3 +13,6 @@ and a [TL074CDR](https://www.digikey.com/en/products/detail/texas-instruments/TL
 
 Current(ish) board rendering:
 [PCB rendering](IIGS-audio.png)
+
+Known issue: This stereo sound card makes a chirp / squawk sound when the IIGS is switched off if a Reactive Mircro power supply is installed.   This does not happen
+if your system uses an original power supply.
