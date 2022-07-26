@@ -15,4 +15,4 @@ Current(ish) board rendering:
 [PCB rendering](IIGS-audio.png)
 
 Known issue: This stereo sound card makes a chirp / squawk sound when the IIGS is switched off if a Reactive Mircro power supply is installed.   This does not happen
-if your system uses an original power supply and does not impact performance in any way.
+if your system uses an original power supply and does not impact performance in any way. 
