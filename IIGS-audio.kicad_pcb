@@ -2200,7 +2200,7 @@
   (gr_text "+" (at 163.068 113.6625) (layer "F.SilkS") (tstamp e1652879-24d9-4eaa-a5eb-9b3d0973709e)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "<-Out to J-25" (at 122.682 119.7585) (layer "F.SilkS") (tstamp e7a7892b-b219-4fb6-ae02-576774a840bb)
+  (gr_text "<-Out to J25" (at 122.682 119.7585) (layer "F.SilkS") (tstamp e7a7892b-b219-4fb6-ae02-576774a840bb)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_text "LiteSound\n" (at 152.908 87.7545) (layer "F.SilkS") (tstamp f3b961d6-4af8-455d-87be-19492d852155)
