@@ -1232,7 +1232,7 @@
     (tags "SOIC SO")
     (property "Sheetfile" "IIGS-audio.kicad_sch")
     (property "Sheetname" "")
-    (path "/eb49e25a-ad89-4fad-a278-f8b913b5c291")
+    (path "/d0e5cb06-b4ca-4f44-97ec-26352abfdc84")
     (attr smd)
     (fp_text reference "U2" (at 0 -5.28 90) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
