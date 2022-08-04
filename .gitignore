@@ -6,6 +6,7 @@
  *.bak
 # other stuff to ignore
 /IIGS-audio-backups
+/Gerbers
 # Temporary files
 *.000
 *.bak
