@@ -79,7 +79,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "Rev4Gerbers")
+      (outputdirectory "Gerbers")
     )
   )
 
@@ -575,7 +575,7 @@
       (tstamp fa550b28-44e9-47a2-a575-c5d97baab9e2)
     )
     (pad "" smd circle (at 0 0) (size 1 1) (layers "F.Cu" "F.Mask")
-      (solder_mask_margin 0.5) (clearance 0.5) (tstamp 68f9aa8f-2f5e-49c1-8249-657791b9607d))
+      (solder_mask_margin 0.5) (clearance 0.5) (tstamp 8192ffeb-9293-46c7-808a-2dabe432da48))
   )
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
