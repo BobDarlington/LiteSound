@@ -1,7 +1,7 @@
 # LiteSound
 This card provides stereo audio capability for the Apple IIGS computers.
 
-This project was done in <b>KiCad 6.0.6</b> and may not work with older versions.
+This project was done in <b>KiCad 6.0.10</b> and may not work with older versions.
 
 Installation and use manual is a Google Docs file and can be found at this URL:
 https://tinyurl.com/39kpvvwv
