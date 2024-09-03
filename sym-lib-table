@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "apple2")(type "KiCad")(uri "${KIPRJMOD}/apple2.kicad_sym")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "${KIPRJMOD}/fp-lib-table/SamacSys_Parts.kicad_sym")(options "")(descr ""))
+)
