@@ -28,5 +28,18 @@ The headphone jack I use is a [CUI Devices SJ1-3515N](https://www.mouser.com/Pro
 Current(ish) board rendering:
 [PCB rendering](IIGS-audio.png)
 
+This rendering shows a 2 pin header that was added at the request of about two people who wanted the ability to power this board externally.   
+This is not the norm, but you <B>can</b> do it if you really want to.  It's your GS, you do with it as you please!  This doesn't mean external to
+the case, just external to the slot (with +/-5v wires run to the pcb) so you don't have to tie up a slot.   This is on you to figure out
+how to do.  The only ground on this board is the analog ground on the J25 header on the motherboard.  Don't tie analog ground to digital ground 
+(it says so right on the GS schematic).   This will introduce noise, as will decoupling capacitors between +/-5v and digital ground.  That's
+why they're not on the board.
+
+This is technically the 4th revision of the PCB.   1st rev worked fine, but was too short for PCBWay to be able to bevel the card edge.   2nd rev was bigger with some
+parts moved around where it would be natural to accidentally pull the audio coupling capacitors off the board.  Initially I was using low profile SMT tantalum capacitors for this.
+People had a real problem with the idea of using tants so I switched to the SMT electrolytic caps.  3rd rev moved those caps to where they are now,
+but also included coupling caps for the power supplies to DC ground.  I learned the hard way not to do this.  Don't do it.   Noise will be introduced.
+4th rev removed those two capacitors and added the two pin header.
+
 <b>Known issue:</b> This stereo sound card makes a chirp / squawk sound when the IIGS is switched off if a Reactive Mircro power supply is installed.   This does not happen
 if your system uses an original power supply and does not impact performance in any way.  It may do the same with other aftermarket power supplies. YMMV.
